@@ -32,9 +32,9 @@
 ## Developers
   <div align="center">
     
-  [![MrChaby](https://github.com/MrChaby.png?size=100)](https://github.com/MrChaby) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![Tutux](https://github.com/Tutux1.png?size=100)](https://github.com/Tutux1) 
+  [![Hacker Pancha](https://github.com/HackerPancha.png?size=100)](https://github.com/HackerPancha) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![MR.SDK](https://github.com/sdkoffcial72.png?size=100)](https://github.com/sdkoffcial72) 
 ----|----|----
-[MrChaby](https://github.com/MrChaby)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [Tutux](https://github.com/Tutux1)
+[Hacker Pancha](https://github.com/HackerPancha)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [MR.SDK](https://github.com/sdkoffcial72)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
 ## Thanks To
