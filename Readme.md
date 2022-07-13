@@ -8,31 +8,31 @@
 ----
 
 
- <b><h1>Scan Qr Code</b></h1>
+> <b><h1>Scan Qr Code</b></h1>
  
 
-<a href="https://replit.com/@virusfucker/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js"><img src="/PicsArt_22-04-16_22-52-38-348.png">
+> <a href="https://replit.com/@virusfucker/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js"><img src="/PicsArt_22-04-16_22-52-38-348.png">
 <br>
 
 
 
-<b><h1>Deploy Now ♨️</b></h1>
+> <b><h1>Deploy Now ♨️</b></h1>
    <a href="https://heroku.com/deploy"><img src="/PicsArt_22-04-15_12-59-28-786.png">
 <br>
 
 ----
 
-
+>----
 ----
 
 
 
-## 👨‍💻 Developers & Contributors 👨‍💻
+> ## 👨‍💻 Developers & Contributors 👨‍💻
 
-## Developers
+> ## Developers
   <div align="center">
     
-  [![Hacker Pancha](https://github.com/HackerPancha.png?size=100)](https://github.com/HackerPancha) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![MR.SDK](https://github.com/sdkoffcial72.png?size=100)](https://github.com/sdkoffcial72) | [![White Hiru](https://github.com/WhiteHiru.png?size=100)](https://github.com/WhiteHiru)
+>  [![Hacker Pancha](https://github.com/HackerPancha.png?size=100)](https://github.com/HackerPancha) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![MR.SDK](https://github.com/sdkoffcial72.png?size=100)](https://github.com/sdkoffcial72) | [![White Hiru](https://github.com/WhiteHiru.png?size=100)](https://github.com/WhiteHiru)
 ----|----|----|----
 [Hacker Pancha](https://github.com/HackerPancha)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [MR.SDK](https://github.com/sdkoffcial72) | [White Hiru](https://github.com/WhiteHiru)
 Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to me
