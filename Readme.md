@@ -17,7 +17,7 @@
 
 
 > <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="https://telegra.ph/file/611fcbc5979c81afbf61f.jpg">
+   <a href="https://heroku.com/deploy"><img src="/PicsArt_22-04-15_12-59-28-786.png">
 <br>
 
 ----
