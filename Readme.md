@@ -1,14 +1,15 @@
-## @_The Hackers In Sri Lanka Offcial_
+## ᴛᴏxɪᴄ ʟᴇᴏ_
+ʙʏ:ᴀᴋᴀsʜ
 
 
-> <img src="https://telegra.ph/file/611fcbc5979c81afbf61f.jpg" alt="nz" width="350"/>
+> <img src="https://i.imgur.com/2zDbMqr.jpeg" alt="nz" width="350"/>
 </p>
 
 
 ----
 
 
-> <b><h1>Scan Qr Code</b></h1>
+> <b><h1>sᴄᴀɴ ǫʀ ᴄᴏᴅᴇ</b></h1>
  
 
 > <a href="https://replit.com/@virusfucker/Jessi-Bot-Multi-Device-Qr?v=1outputonly=1&lite=1#index.js"><img src="/PicsArt_22-04-16_22-52-38-348.png">
@@ -16,7 +17,7 @@
 
 
 
-> <b><h1>Deploy Now ♨️</b></h1>
+> <b><h1>ᴅᴇᴘʟᴏʏ ɴᴏᴡ 💫</b></h1>
    <a href="https://heroku.com/deploy"><img src="/PicsArt_22-04-15_12-59-28-786.png">
 <br>
 
@@ -27,34 +28,31 @@
 
 
 
-> ## 👨‍💻 Developers & Contributors 👨‍💻
+> ## 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀs & ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs 👨‍💻
 
-> ## Developers
+> ## ᴅᴇᴠᴇʟᴏᴘᴇʀs [ᴀᴋᴀsʜ]
   <div align="center">
     
-  [![Hacker Pancha](https://github.com/HackerPancha.png?size=100)](https://github.com/HackerPancha) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![MR.SDK](https://github.com/sdkoffcial72.png?size=100)](https://github.com/sdkoffcial72) | [![White Hiru](https://github.com/WhiteHiru.png?size=100)](https://github.com/WhiteHiru)
+  [![ᴛᴏxɪᴄ ʟᴇᴏ](https:https://github.com/toxic-leo1.png?size=100)](https://github.com/toxic-leo1) 
 ----|----|----|----
-[Hacker Pancha](https://github.com/HackerPancha)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [MR.SDK](https://github.com/sdkoffcial72) | [White Hiru](https://github.com/WhiteHiru)
+[TOXIC LEO](https://github.com/toxic-leo1)
 Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to me
 
 
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
-* [`Black Panther`](github.com/blackpantherofc)
-* [`MrChaby`](github.com/MrChaby)
+## ʙʏ
+* [`@adiwajshing/baileys`](https://github.com/toxic-leo1) 
 
 
 
 
 
-> License: [MIT](https://github.com/whiteshadowofficial/LICENSE)
+> License: [MIT](https://github.com/toxic-leo1/LICENSE)
 
-> Click WA logo to Join Support Group 👇
+> ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ  👇
 <br>
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FCwVcEZvwWLCcO0h1P2IBG)
 
   <div align="center">
 
@@ -65,7 +63,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to 
 >`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 .
 
-> The project was created by Mr.White Shadow
+> The project was created by Mr.TOXIC LEO
 
 ____________________________________________
 

@@ -1,8 +1,8 @@
 {
-  "name": "HISL-Bot-MD",
+  "name": "TOXIC-LEO-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/whiteshadowofficial/HISL-WHATSAPP-BOT-MD",
-  "logo": "https://telegra.ph/file/611fcbc5979c81afbf61f.jpg",
+  "repository": "https://github.com/toxic-leo1/TOXICLEO-WHATSAPP-BOT-MD",
+  "logo": "https://i.imgur.com/2zDbMqr.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {

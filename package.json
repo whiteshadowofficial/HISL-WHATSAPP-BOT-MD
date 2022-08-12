@@ -1,8 +1,8 @@
 {
-  "name": "HISL-OFFICIAL-BOT-MD",
+  "name": "TOXIC-LEO-BOT-MD",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
-  "main": "hackers-in-sri-lanka.js",
+  "main": "hackers-in-TOXIC-LEO.js",
   "type": "commonjs",
   "scripts": {
     "start": "node hackers-in-sri-lanka.js"
