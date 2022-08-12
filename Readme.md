@@ -32,24 +32,21 @@
 > ## Developers
   <div align="center">
     
-  [![ᴛᴏxɪᴄ ʟᴇᴏ](https://github.com/HackerPancha.png?size=100)](https://github.com/HackerPancha) |  [![Mr.White Shadow](https://github.com/whiteshadowofficial.png?size=100)](https://github.com/whiteshadowofficial) | [![MR.SDK](https://github.com/sdkoffcial72.png?size=100)](https://github.com/sdkoffcial72) | [![White Hiru](https://github.com/WhiteHiru.png?size=100)](https://github.com/WhiteHiru)
+  [![ᴛᴏxɪᴄ ʟᴇᴏ](https:https://github.com/toxic-leo1.png?size=100)](https://github.com/toxic-leo1) 
 ----|----|----|----
-[Hacker Pancha](https://github.com/HackerPancha)  | [Mr.White Shadow](https://github.com/whiteshadowofficial) | [MR.SDK](https://github.com/sdkoffcial72) | [White Hiru](https://github.com/WhiteHiru)
+[TOXIC LEO](https://github.com/toxic-leo1)
 Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to me
 
 
 
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Mr.White Shadow`](https://github.com/whiteshadowofficial)
-* [`Black Panther`](github.com/blackpantherofc)
-* [`MrChaby`](github.com/MrChaby)
+## ʙʏ
+* [`@adiwajshing/baileys`](https://github.com/toxic-leo1) 
 
 
 
 
 
-> License: [MIT](https://github.com/whiteshadowofficial/LICENSE)
+> License: [MIT](https://github.com/toxic-leo1/LICENSE)
 
 > Click WA logo to Join Support Group 👇
 <br>
