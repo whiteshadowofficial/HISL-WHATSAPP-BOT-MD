@@ -54,7 +54,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to 
 > Click WA logo to Join Support Group 👇
 <br>
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/I1uZccqxoqx5sOPrYHsbyc)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FCwVcEZvwWLCcO0h1P2IBG)
 
   <div align="center">
 
@@ -65,7 +65,7 @@ Base, Bug Fixes, Modules | Modifiying  as   public | Helping to me | Helping to 
 >`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 .
 
-> The project was created by Mr.White Shadow
+> The project was created by Mr.TOXIC LEO
 
 ____________________________________________
 
