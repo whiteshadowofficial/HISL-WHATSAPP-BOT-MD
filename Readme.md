@@ -1,4 +1,5 @@
 ## ᴛᴏxɪᴄ ʟᴇᴏ_
+ʙʏ:ᴀᴋᴀsʜ
 
 
 > <img src="https://i.imgur.com/2zDbMqr.jpeg" alt="nz" width="350"/>
@@ -16,7 +17,7 @@
 
 
 
-> <b><h1>Deploy Now ♨️</b></h1>
+> <b><h1>Deploy Now 👻💫</b></h1>
    <a href="https://heroku.com/deploy"><img src="/PicsArt_22-04-15_12-59-28-786.png">
 <br>
 
